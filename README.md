@@ -1,6 +1,6 @@
 # Hi, I'm Hai Anh Dang 
 
-I'm a data and Power BI analyst. I use SQL to investigate business questions and Power BI to visualise the results. My projects focus on sales performance, delivery, and customer purchasing.
+I'm a data and Power BI analyst. I use SQL to investigate business questions and Power BI to visualise the results. My projects focus on sales performance, delivery, customer purchasing, and product engagement.
 
 ## 🛠 Skills & Tools
 
@@ -12,10 +12,12 @@ I'm a data and Power BI analyst. I use SQL to investigate business questions and
 
 ## 📚 Projects
 
-My [portfolio](https://github.com/Mt-H-Anh/data-powerbi-portfolio) contains simulated business questions, findings, and report materials for each project.
+My [portfolio](https://github.com/Hai-Anh-Dang/data-powerbi-portfolio) contains simulated business questions, findings, and report materials for each project.
 
-- [Olist Sales & Delivery Analysis](https://github.com/Mt-H-Anh/olist-sales-delivery-analysis): investigate marketplace activity and delivery exceptions using SQL.
-- [Office Furniture Sales Analysis](https://github.com/Mt-H-Anh/office-furniture-sales-analysis): examine completed orders, cancellations, and observed repeat purchasing using Power BI measures.
+- [Olist Sales & Delivery Analysis](https://github.com/Hai-Anh-Dang/olist-sales-delivery-analysis): investigate marketplace activity and delivery exceptions using SQL.
+- [Office Furniture Sales Analysis](https://github.com/Hai-Anh-Dang/office-furniture-sales-analysis): examine completed orders, cancellations, and observed repeat purchasing using Power BI measures.
+
+- [TaskFlow Product Analysis](https://github.com/Hai-Anh-Dang/TaskFlow-Analysis): investigate engagement and subscription decline in a fictional productivity product using synthetic data, SQL and Power BI; distinguish observed trends from unconfirmed explanations.
 
 ## Python Portfolio
 
@@ -24,4 +26,5 @@ My [Python portfolio](https://github.com/Hai-Anh-Dang/python-portfolio) brings t
 - [Victoria Retail Forecasting](https://github.com/Hai-Anh-Dang/victoria-retail-forecasting): compare seasonal naive, ETS and SARIMA for monthly Victoria liquor-retailing turnover; retain the seasonal baseline as the reference after the selected model performs worse in the final period.
 - [Bank Marketing Leakage Review](https://github.com/Hai-Anh-Dang/bank-marketing-leakage): examine call-duration leakage, input availability, probability calibration and the corrected model's limits for pre-call prioritisation.
 - [Seoul Bike Demand Review](https://github.com/Hai-Anh-Dang/seoul-bike-demand-review): evaluate hourly demand models against calendar rules and investigate underprediction, busy-hour errors and weather-input availability.
+
 
