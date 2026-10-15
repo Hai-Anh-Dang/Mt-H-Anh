@@ -17,7 +17,7 @@ My [portfolio](https://github.com/Mt-H-Anh/data-powerbi-portfolio) contains simu
 - [Olist Sales & Delivery Analysis](https://github.com/Mt-H-Anh/olist-sales-delivery-analysis): investigate marketplace activity and delivery exceptions using SQL.
 - [Office Furniture Sales Analysis](https://github.com/Mt-H-Anh/office-furniture-sales-analysis): examine completed orders, cancellations, and observed repeat purchasing using Power BI measures.
 
-## 🐍 Python Portfolio
+## Python Portfolio
 
 My [Python portfolio](https://github.com/Hai-Anh-Dang/python-portfolio) brings together forecasting and model reviews, with baseline comparisons, evaluation findings and limits on their business use.
 
